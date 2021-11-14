@@ -1,0 +1,12 @@
+1) Open Anaconda Command Prompt.
+2) Enter the folder where all files are saved. DO NOT CHANGE THE NAMES AND PATHS OF ANY FILE/FOLDER.
+3) Type "spyder". You must have Anaconda Navigator installed in your system.
+4) Run main.py using Spyder IDE.
+5) Open another Anaconda Command Prompt without closing the previous one.
+6) Enter the same folder again.
+7) Type "python app.py" to run app file.
+8) Wait till it shows the host link. Once it's visible, copy and paste it on Chrome.
+9) Use the GUI to input your words and get the desired outputs.
+
+Vidhyun Kapoor
+1810991180
